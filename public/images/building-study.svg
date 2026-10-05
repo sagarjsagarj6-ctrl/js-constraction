@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="106" y1="37" x2="1087" y2="876" gradientUnits="userSpaceOnUse"><stop stop-color="#385348"/><stop offset="1" stop-color="#1E2C26"/></linearGradient>
+    <linearGradient id="wall" x1="390" y1="120" x2="791" y2="760" gradientUnits="userSpaceOnUse"><stop stop-color="#F3E6CE"/><stop offset="1" stop-color="#D5C9B6"/></linearGradient>
+    <pattern id="lines" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" stroke="#E8EEE8" stroke-opacity=".11"/></pattern>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h1200v900H0z"/><path fill="url(#lines)" d="M0 0h1200v900H0z"/>
+  <circle cx="910" cy="196" r="121" fill="#ED7138"/><circle cx="910" cy="196" r="157" stroke="#F5B043" stroke-opacity=".65" stroke-width="2"/>
+  <path d="M112 755h1000" stroke="#F5B043" stroke-width="4"/><path d="m172 755 366-117 464 117H172Z" fill="#17231F"/>
+  <path d="M385 268h403v487H385z" fill="url(#wall)"/><path d="M343 253h473v27H343z" fill="#F8B141"/>
+  <path d="M418 303h80v91h-80zM547 303h80v91h-80zM676 303h80v91h-80zM418 428h80v91h-80zM547 428h80v91h-80zM676 428h80v91h-80zM418 553h80v91h-80zM547 553h80v91h-80zM676 553h80v91h-80z" fill="#5F8376"/>
+  <path d="M418 303h80v91h-80zM547 428h80v91h-80zM676 553h80v91h-80z" fill="#F5A83E"/>
+  <path d="M350 280v475m470-475v475M330 413h507M330 539h507M330 668h507" stroke="#FFFFFF" stroke-opacity=".72" stroke-width="6"/>
+  <path d="M865 755V389h181v366M865 480h181M865 571h181M865 662h181M926 389v366M986 389v366" stroke="#C7D2C7" stroke-width="9"/>
+  <path d="m846 389 109-77 109 77M846 480l109-76 109 76M846 571l109-76 109 76M846 662l109-76 109 76" stroke="#ED7138" stroke-width="7"/>
+  <path d="M100 803h1000M158 835h889M224 866h795" stroke="#A8BBAE" stroke-opacity=".42" stroke-width="3"/>
+  <path d="M145 128h148M145 149h96M145 170h126" stroke="#F8B141" stroke-width="4" stroke-linecap="round"/><circle cx="145" cy="128" r="7" fill="#F8B141"/>
+  <path d="M1042 224v93m0 0h-28m28 0 20-22" stroke="#F8B141" stroke-width="5"/>
+</svg>

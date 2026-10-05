@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="600" y1="0" x2="600" y2="900" gradientUnits="userSpaceOnUse"><stop stop-color="#344E43"/><stop offset="1" stop-color="#202E28"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#DCE8DD" stroke-opacity=".12"/></pattern>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v900H0z"/><path fill="url(#grid)" d="M0 0h1200v900H0z"/>
+  <circle cx="925" cy="173" r="106" fill="#E86C36"/><circle cx="925" cy="173" r="147" stroke="#F5B141" stroke-opacity=".6" stroke-width="2"/>
+  <path d="M0 734h1200v166H0z" fill="#19241F"/><path d="M87 734h1030M139 779h934M190 825h827" stroke="#A7B9A9" stroke-opacity=".5" stroke-width="3"/>
+  <path d="M286 734V346h632v388M286 438h632M286 535h632M286 633h632M394 346v388M501 346v388M608 346v388M715 346v388M822 346v388" stroke="#D7DDCF" stroke-width="9"/>
+  <path d="M268 346h668v24H268zM270 427h664v20H270zM270 524h664v20H270zM270 622h664v20H270z" fill="#F2A73C"/>
+  <path d="M310 382h53v43h-53zM417 382h53v43h-53zM524 382h53v43h-53zM631 382h53v43h-53zM738 382h53v43h-53zM845 382h53v43h-53z" fill="#648778"/>
+  <path d="M310 470h53v48h-53zM417 470h53v48h-53zM524 470h53v48h-53zM631 470h53v48h-53zM738 470h53v48h-53zM845 470h53v48h-53z" fill="#648778"/>
+  <path d="M310 568h53v47h-53zM417 568h53v47h-53zM524 568h53v47h-53zM631 568h53v47h-53zM738 568h53v47h-53zM845 568h53v47h-53z" fill="#648778"/>
+  <path d="M310 382h53v43h-53zM524 470h53v48h-53zM738 568h53v47h-53z" fill="#F7B141"/>
+  <path d="M214 734V186h14v-58h17v58h-31M222 137h690" stroke="#F7B141" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M241 145h560l-81 47H160l81-47Z" fill="#E66B36"/><path d="M747 192v199m0 0h-29m29 0 22-25" stroke="#F7B141" stroke-width="6"/>
+  <path d="M951 734V486h135v248M951 547h135M951 610h135M951 673h135M996 486v248M1041 486v248" stroke="#CFDCCF" stroke-width="7"/><path d="m936 486 82-56 82 56M936 547l82-54 82 54M936 610l82-54 82 54M936 673l82-54 82 54" stroke="#E86C36" stroke-width="6"/>
+  <path d="m95 734 56-56 54 56M1020 734l41-42 41 42" stroke="#F7B141" stroke-width="6"/>
+  <circle cx="103" cy="255" r="8" fill="#F7B141"/><path d="M103 275v60m-20-22h40" stroke="#F7B141" stroke-width="4"/>
+</svg>
